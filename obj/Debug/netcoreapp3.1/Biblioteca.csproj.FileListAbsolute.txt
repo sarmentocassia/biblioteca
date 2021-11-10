@@ -51,3 +51,6 @@ C:\projetos\senac\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.
 C:\projetos\senac\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\projetos\senac\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\projetos\senac\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\projetos\senac\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\projetos\senac\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edicao.cshtml.g.cs
+C:\projetos\senac\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
