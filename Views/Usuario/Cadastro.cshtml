@@ -1,0 +1,28 @@
+@model Usuario
+
+
+@{
+    ViewData["Title"] =  "Cadastro de usuario";
+
+}
+
+<form  method="post" asp-action="Salvar">
+ 
+     <p>
+        <label for="Login">Login</label>
+        <input type="text" name="Login" asp-for="Login" required> 
+    </p>
+     <p>
+        <label for="Senha">Senha</label>
+        <input type="text" name="Senha" asp-for="Senha" required>
+    </p>
+      <p>
+        <label for="DataNascimento">Data de Nascimento </label>
+        <input type="date" name="DataNascimento"  asp-for="DataNascimento" required>
+    </p>
+    
+    <input type="submit" value="Salvar" >
+
+    <p style="color:red"> @ViewBag.MensagemSucesso</p> 
+</form>
+
